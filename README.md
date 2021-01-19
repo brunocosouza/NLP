@@ -10,7 +10,7 @@ For simplicity, this repository can be useful to **study** and to **understand**
 The files : The Dataset_for_Pretaining_Word_Embedding, Finding_Synonyms_and_Analogies and Pretraining Bidirectional_Encoder_Representations_from_Transformer(BERT) were made on Colaboratory, so the explanations are insider them
 
 ## Sentimental Analysis Dataset
-Esse arquivo tem como obejtivo carregar dados **analizar emoções do autor de um determinado texto a partir de técnicas de classificação de sentimento em texto". Esse tipo de tarefa é denominado sentiment analysis.
+Esse arquivo tem como obejtivo preparar e carregar dados. Os dados servirão para analizar emoções do autor de um determinado texto a partir de técnicas de classificação de sentimento em texto. Esse tipo de tarefa é denominado sentiment analysis.
 
 Nesse projeto usaremos Stanford's Large Movie Review Dataset como o dataset da analise de sentimento. O texto contém :
 
