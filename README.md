@@ -7,7 +7,7 @@ All the techniques annotations that serve to explain step by step of the project
 
 For simplicity, this repository can be useful to **study** and to **understand** the NLP models and tasks but it is not intended to be a NLP model repository.
 
-The files : The Dataset_for_Pretaining_Word_Embedding, Finding_Synonyms_and_Analogies and Pretraining Bidirectional_Encoder_Representations_from_Transformer(BERT) were made on Colaboratory, so the explanations are insider them
+The files inside Jupyter: The Dataset_for_Pretaining_Word_Embedding, Finding_Synonyms_and_Analogies and Pretraining Bidirectional_Encoder_Representations_from_Transformer(BERT) were made on Colaboratory, so the explanations are insider them
 
 ## Sentimental Analysis Dataset
 Esse arquivo tem como obejtivo preparar e carregar dados. Os dados servirão para analizar emoções do autor de um determinado texto a partir de técnicas de classificação de sentimento em texto. Esse tipo de tarefa é denominado sentiment analysis.
