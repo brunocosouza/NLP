@@ -11,7 +11,7 @@ For simplicity, this repository can be useful to **study** and to **understand**
 
 * The files inside Text Classification: The file READ_ME has some explanation about the methods used during the project. All the files are in .py format
 
-* **In progress : Natural Language Inference Project
+* **In progress : Natural Language Inference Project**
 
 The projects are inspired at : 
 https://d2l.ai/
