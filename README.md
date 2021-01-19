@@ -7,5 +7,19 @@ All the techniques annotations that serve to explain step by step of the project
 
 For simplicity, this repository can be useful to **study** and to **understand** the NLP models and tasks but it is not intended to be a NLP model repository.
 
+
+## Sentiment Analysis: Using RNN
+Nessa seção, para tarefas de classificação de texto, nos aplicamos o modelo pré-treinado para vetorização de palavra GloVe e uma rede RNN bidirecional com multiplas camadas escondidas (hidden layers)
+
+O modelo ira classificar se uma sequência de texto de tamanho indefinido contém emoções positiva ou negativas.
+
+No modelo atual, cada palavra é vetorizada através da layer embedding. Então, codificamos (encode) cada vetorização de sequencia (união de palavras vetorizadas) usando um RNN bidirecional para obter a informação da sequencia desejada. Por ultimo, nos podemos concatenar os estados ocultos do bidirecional long-short term memory no inicio do time step e no final da time step e passar para a saida da camada de classificação (Linear) como informação de sequência de característica codificada.
+
+No modelo criado BiRNN class temos :
+
+* Embedding como a camada de embedding;
+* LSTM como a camada escondida para codificação de sequencia;
+* Uma camada Dense como camada de saida geradora de classificação de texto.
+
 The projects are inspired at : 
 https://d2l.ai/
