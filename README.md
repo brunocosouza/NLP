@@ -2,10 +2,10 @@
 
 The entire project is in **PORTUGUESE - BR**
 
-This repository is a bunker where I register all my projects based on NLP models as well as models that can be used in NLP tasks (RNN, Transformer, etc).
+This repository is a warehouse where I register all my projects based on NLP models as well as models that can be used in NLP tasks (RNN, Transformer, etc).
 All the techniques annotations that serve to explain step by step of the project are inside each project.
 
-For simplicity, this repository can be useful to **study** and to **understand** the NLP models and tasks but it is not intended to be a NLP model repository.
+Roughly speaking, this repository can be useful to **study** and to **understand** the NLP models and tasks but it is not intended to be a NLP model repository.
 
 * The files inside Jupyter: The files were made on Colaboratory and they are about pretraining Word Embedding Models and Dataset. The explanations are insider them, so there is not READ_ME file.
 
