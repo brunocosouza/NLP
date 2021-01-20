@@ -13,5 +13,5 @@ For simplicity, this repository can be useful to **study** and to **understand**
 
 * **In progress : Natural Language Inference Project**
 
-The projects are come from and inspired by: 
+The projects come from and inspired by: 
 https://d2l.ai/
