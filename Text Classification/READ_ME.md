@@ -1,5 +1,5 @@
 ## Sentimental Analysis Dataset
-Esse arquivo tem como obejtivo preparar e carregar dados. Os dados servirão para analizar emoções do autor de um determinado texto a partir de técnicas de classificação de sentimento em texto. Esse tipo de tarefa é denominado sentiment analysis.
+Esse arquivo tem como objetivo preparar e carregar dados. Os dados servirão para analizar emoções do autor de um determinado texto a partir de técnicas de classificação de sentimento em texto. Esse tipo de tarefa é denominado sentiment analysis.
 
 Nesse projeto usaremos Stanford's Large Movie Review Dataset como o dataset da analise de sentimento. O texto contém :
 
