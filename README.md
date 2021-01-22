@@ -1,6 +1,8 @@
 # NLP
 
-The entire project is in **PORTUGUESE - BR**
+The entire project is in **PORTUGUESE - BR** language.
+
+All projects are unofficial and based on Pytorch implementation.
 
 This repository is a warehouse where I register all my projects based on NLP models as well as models that can be used in NLP tasks (RNN, Transformer, etc).
 All the techniques annotations that serve to explain step by step of the project are inside each project.
