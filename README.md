@@ -13,6 +13,8 @@ A grosso modo, este repositório pode ser útil para **estudar** e **entender** 
 
 * Os arquivos dentro da Classificação de Texto: O arquivo READ_ME contém algumas explicações sobre os métodos usados durante o projeto. Todos os arquivos estão no formato .py
 
+* Os arquivos dentro de Natural Language Inference: O arquivo READ_ME contém algumas explicações sobre os métodos usados durante o projeto. Todos os arquivos estão no formato .py
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The projects are in **PORTUGUESE - BR** language.
@@ -28,7 +30,7 @@ Roughly speaking, this repository can be useful to **study** and to **understand
 
 * The files inside Text Classification: The file READ_ME has some explanation about the methods used during the project. All the files are in .py format
 
-* **In progress : Natural Language Inference Project**
+* The files inside Natural Language Inference The file READ_ME has some explanation about the methods used during the project. All the files are in .py format
 
 The projects come from and inspired by: 
 https://d2l.ai/
