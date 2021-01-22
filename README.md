@@ -1,6 +1,6 @@
 # NLP
 
-The entire project is in **PORTUGUESE - BR** language.
+The projects are in **PORTUGUESE - BR** language.
 
 All projects are unofficial and based on Pytorch implementation.
 
